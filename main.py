@@ -23,4 +23,5 @@ def Main():
                     ССЫЛКА ДЛЯ БЫСТРОЙ ПОКУПКИ:{account['item_fast_buy']}\n=======''')
         time.sleep(int(delay))
     
-Main()
+while True:
+    Main()
