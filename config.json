@@ -1,0 +1,10 @@
+{
+    "market_token":"",
+    "bot_token":"",
+    "telegram_id":"",
+    "url": [
+        "https://api.lzt.market/steam?pmax=600&origin[]=brute&origin[]=stealer&sb=false&game[]=730&trade_ban=no&daybreak=30&limit=no&no_vac=true",
+        "https://api.lzt.market/steam?pmax=300&origin[]=brute&origin[]=stealer&sb=false&game[]=730&trade_ban=no&daybreak=30&limit=no&no_vac=true"
+    ],
+    "delay" : "15"
+}
